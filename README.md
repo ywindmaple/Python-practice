@@ -1,2 +1,2 @@
-# automatic-robot
+# Python-practice
 Learning Python.
